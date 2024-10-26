@@ -1,13 +1,22 @@
 # commerce-coinbase-for-woocommerce
 === Coinbase Commerce - Crypto Gateway for WooCommerce ===
+
 Contributors: CoderPressCo, smusman98, kimjac
+
 Donate link: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=donate-link
+
 Tags: crypto, coinbase, bitcoin, ethereum, litecoin
+
 Requires at least: 4.9
+
 Tested up to: 6.6
+
 Stable tag: 1.6.3
+
 Requires PHP: 5.2.4
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Coinbase Commerce is the best crypto gateway, allows users to checkout with popular crypto currencies such as Bitcoin, Bitcoin Cash, DAI, Ethereum, Dogecoin, USD Coin, Litecoin, Tether USD, ApeCoin, and Shiba Inu.
